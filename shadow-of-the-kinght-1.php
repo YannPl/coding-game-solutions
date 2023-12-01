@@ -1,5 +1,6 @@
 <?php
-/** Problem URL:
+/** 
+ * Problem URL:
  * https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1
  */
 
